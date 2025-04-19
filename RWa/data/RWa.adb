@@ -437,7 +437,7 @@ RWDSRC_RW_Diesel D
 minp d-x 1
 moutp G-s c 0.35
 plf c 0.894
-pll c 25
+pll c 15
 inv c 1392.06
 fom c 29.62
 vom c 0
