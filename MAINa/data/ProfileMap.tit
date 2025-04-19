@@ -1,0 +1,12 @@
+Scenario;Model Size;Demand Profile;Supply Profile
+adb;Large Model;DM;Default
+Baseline;Large Model;DM;Default
+DelayedInga;Large Model;DM;Default
+DryYears;Large Model;DM;Default
+FullContinentalMD;Large Model;DM;Default
+FullContinentalRD;Large Model;DM;Default
+FullIntegration;Large Model;DM;Default
+FullRegionalMD;Large Model;DM;Default
+FullRegionalRD;Large Model;DM;Default
+Reference;Large Model;DM;Default
+ReferenceMD;Large Model;DM;Default
